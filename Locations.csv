@@ -1,0 +1,5 @@
+"name,lat,lon,description"
+"Berlin HQ,52.5200,13.4050,Main headquarters"
+"New York Office,40.7128,-74.0060,US regional office"
+"Singapore DC,1.3521,103.8198,Primary APAC datacenter"
+"London Backup Site,51.5074,-0.1278,European DR location"
