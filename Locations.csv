@@ -1,5 +1,8 @@
 name,lat,lon,description
-Berlin HQ,52.5200,13.4050,Main headquarters
-New York Office,40.7128,-74.0060,US regional office
-Singapore DC,1.3521,103.8198,Primary APAC datacenter
-London Backup Site,51.5074,-0.1278,European DR location
+Mulfingen HQ,49.3406,9.8006,Group headquarters
+Landshut Plant,48.5372,12.1522,German production site
+St. Georgen Plant,48.1261,8.3346,German site
+Telford Plant,52.6784,-2.4453,UK production plant
+Xi'an Plant,34.3416,108.9398,China production plant
+Shanghai HQ,31.2304,121.4737,One Shanghai local headquarters + extension
+India IT Hub,13.0827,80.2707,IT / Digital Hub India
